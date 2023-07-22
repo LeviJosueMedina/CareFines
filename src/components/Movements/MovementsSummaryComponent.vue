@@ -83,6 +83,7 @@ export default {
     };
   },
   created() {
+    //Only if movements is not an empty array
     if (this.movements.length > 0) {
       this.getSummary();
     }
