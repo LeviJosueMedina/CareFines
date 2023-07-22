@@ -37,5 +37,7 @@ npm run lint
 - Movement search through date ranges, title, category and type of movement.
 - Detailed view of movements.
 - General list of movements ordered by date.
+
+Deployed Project: https://carefines.netlify.app/
 ```
 
