@@ -62,28 +62,30 @@ export default {
   },
   data() {
     return {
-      totalIncome: 0,
-      totalExpense: 0,
-      averageMonthlyIncome: 0,
-      averageMonthlyExpense: 0,
-      monthHighestIncome: null,
-      monthHighestExpenses: null,
+      totalIncome: "$0.00",
+      totalExpense: "$0.00",
+      averageMonthlyIncome: "$0.00",
+      averageMonthlyExpense: "$0.00",
+      monthHighestIncome: this.$t("summary.notAvailable"),
+      monthHighestExpenses: this.$t("summary.notAvailable"),
       currentYearRange: {
         firstDate: null,
         lastDate: null,
       },
       biggestIncome: {
-        amount: 0,
-        title: "title",
+        amount: "$0.00",
+        title: this.$t("summary.notAvailable"),
       },
       biggestExpense: {
-        amount: 0,
-        title: "title",
+        amount: "$0.00",
+        title: this.$t("summary.notAvailable"),
       },
     };
   },
   created() {
-    this.getSummary();
+    if (this.movements.length > 0) {
+      this.getSummary();
+    }
   },
   methods: {
     getSummary: function () {
