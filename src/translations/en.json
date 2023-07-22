@@ -1,0 +1,77 @@
+{
+  "buttons": {
+    "newMovement": "New Movement",
+    "saveChanges": "Save Changes"
+  },
+  "home": {
+    "totalSaving": "Total Saving",
+    "lastThirtyDays": "Last 30 Days"
+  },
+  "titles": {
+    "history": "History",
+    "movementDetail": "Movement Detail",
+    "summary": "Summary",
+    "movementsSummary": "Movements Summary",
+    "search": "Search Movement"
+  },
+  "labels": {
+    "title": "Title",
+    "amount": "Amount",
+    "description": "Description",
+    "income": "Income",
+    "expense": "Expense",
+    "newMovement": "New Movement",
+    "editMovement": "Edit Movement",
+    "date": "Date",
+    "from": "From",
+    "to": "To",
+    "category": "Category",
+    "search": "Search"
+  },
+  "blankData": {
+    "description": "No description provided",
+    "emptyFields": "You must fill in the required fields(*)",
+    "noMovements": "There are no registered movements...",
+    "noCoincidences": "There are no movements that match the search"
+  },
+  "summary": {
+    "totalIncome": "Total income",
+    "totalExpenses": "Total expenses",
+    "averageMonthlyIncome": "Average monthly income",
+    "averageMonthlyExpenses": "Average monthly expenses",
+    "monthHigherExpenses": "Month with higher expenses",
+    "monthHighestIncome": "Month with highest income",
+    "biggestIncome": "Biggest income",
+    "biggestExpense": "Biggest spending",
+    "notAvailable": "Not available..."
+  },
+  "months": {
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December"
+  },
+  "categories": {
+    "services": "Services",
+    "rent":"Rent and housing",
+    "transport":"Transport",
+    "healthcare":"Healthcare",
+    "cleaningSupplies":"Cleaning supplies",
+    "taxes":"Taxes",
+    "food":"Food",
+    "clothing":"Clothing",
+    "salary":"Salary",
+    "personalCare":"Personal Care",
+    "entertainment":"Entertainment, recreation and leisure",
+    "others":"Others",
+    "all": "All"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "buttons": {
+    "newMovement": "Nuevo Movimiento",
+    "saveChanges": "Guardar Cambios"
+  },
+  "home": {
+    "totalSaving": "Total Ahorrado",
+    "lastThirtyDays": "Ultimos 30 Dias"
+  },
+  "titles": {
+    "history": "Historial",
+    "movementDetail": "Detalle de Movimiento",
+    "summary": "Resumen",
+    "movementsSummary": "Resumen de movimientos",
+    "search": "Buscar Movimiento"
+  },
+  "labels": {
+    "title": "Título",
+    "amount": "Cantidad",
+    "description": "Descripción",
+    "income": "Ingreso",
+    "expense": "Gasto",
+    "newMovement": "Nuevo Movimiento",
+    "editMovement": "Editar Movimiento",
+    "date": "Fecha",
+    "from": "Desde",
+    "to": "Hasta",
+    "category": "Categoría",
+    "search": "Buscar"
+  },
+  "blankData": {
+    "description": "No se suministro una descripcion",
+    "emptyFields": "Debe llenar los campos obligatorios(*)",
+    "noMovements": "No hay movimientos registrados...",
+    "noCoincidences": "No hay movimientos que coincidan con la búsqueda"
+  },
+  "summary": {
+    "totalIncome": "Ingresos totales",
+    "totalExpenses": "Gastos totales",
+    "averageMonthlyIncome": "Promedio mensual de ingresos",
+    "averageMonthlyExpenses": "Promedio mensual de gastos",
+    "monthHigherExpenses": "Mes con mayores gastos",
+    "monthHighestIncome": "Mes con mayores Ingresos",
+    "biggestIncome": "Ingreso mayor",
+    "biggestExpense": "Gasto mayor",
+    "notAvailable": "No disponible..."
+  },
+  "months": {
+    "january": "Enero",
+    "february": "Febrero",
+    "march": "Marzo",
+    "april": "Abril",
+    "may": "Mayo",
+    "june": "junio",
+    "july": "Julio",
+    "august": "agosto",
+    "september": "Septiembre",
+    "october": "Octubre",
+    "november": "Noviembre",
+    "december": "Diciembre"
+  },
+  "categories": {
+    "services": "Servicios",
+    "rent":"Vivienda",
+    "transport":"Transporte",
+    "healthcare":"Salud",
+    "cleaningSupplies":"Limpieza",
+    "taxes":"Impuestos",
+    "food":"Alimentación",
+    "clothing":"Vestimenta",
+    "salary":"Salario",
+    "personalCare":"Cuidado Personal",
+    "entertainment":"Entretenimiento, recreación y ocio",
+    "others":"Otros",
+    "all": "Todos"
+  }
+}
