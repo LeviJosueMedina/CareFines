@@ -38,6 +38,7 @@ npm run lint
 - Detailed view of movements.
 - General list of movements ordered by date.
 
-Deployed Project: https://carefines.netlify.app/
+Deployed Project:
+  https://carefines.netlify.app/
 ```
 
